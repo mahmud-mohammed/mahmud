@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Applicatyion to programming\Start\Start\Overview\DataTypes
 C:\Users\user\Desktop\Applicatyion to programming\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.pdb
 C:\Users\user\Desktop\Applicatyion to programming\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
 C:\Users\user\Desktop\Applicatyion to programming\Start\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
+C:\Users\user\Desktop\Applicatyion to programming\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.sourcelink.json
