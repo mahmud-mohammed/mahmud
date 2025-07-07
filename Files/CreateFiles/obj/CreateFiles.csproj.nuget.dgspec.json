@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
         "projectName": "CreateFiles",
-        "projectPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\CreateFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

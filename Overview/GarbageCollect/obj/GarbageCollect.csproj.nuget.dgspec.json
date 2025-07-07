@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
         "projectName": "GarbageCollect",
-        "projectPath": "C:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Overview\\GarbageCollect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

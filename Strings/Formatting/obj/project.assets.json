@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
       "projectName": "Formatting",
-      "projectPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Strings\\Formatting\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Strings\\Formatting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

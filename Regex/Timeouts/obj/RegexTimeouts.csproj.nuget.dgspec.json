@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
         "projectName": "RegexTimeouts",
-        "projectPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Regex\\Timeouts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

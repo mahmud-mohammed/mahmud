@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.sourcelink.json
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Applicatyion to programming\Start\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll

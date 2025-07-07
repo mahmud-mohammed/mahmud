@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj",
         "projectName": "Directories",
-        "projectPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\Directories.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Applicatyion to programming\\Start\\Start\\Files\\Directories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
